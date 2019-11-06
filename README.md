@@ -10,3 +10,4 @@ Telegram bot for hearthstone game
 
 2019/11/07 현재 서비스는 중지되었습니다.
 
+![example](./IMG/example.png)
