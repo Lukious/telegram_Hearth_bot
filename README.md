@@ -10,7 +10,14 @@ Telegram bot for hearthstone game
 
 2019/11/07 현재 서비스는 중지되었습니다.
 
-![example](./IMG/example.png =250px)
-![example](./IMG/img1.png =250px)
-![example](./IMG/img2.png =250px)
-![example](./IMG/img3.png =250px)
+Telegram bot for TCG game Hearthstone.
+
+Implemented fuction are card search/deck search/cheater search.
+
+Most recent updated DLC card list is [Kobolds and Catacombs]
+
+Bot service stoped since 2019/01/07
+
+<img src="./IMG/img1.png" width="400">
+<img src="./IMG/img2.png" width="400">
+<img src="./IMG/img3.png" width="400">
